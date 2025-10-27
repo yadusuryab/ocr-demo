@@ -250,8 +250,8 @@ const OCRUpload: React.FC = () => {
       <div className="max-w-6xl mx-auto">
         
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold -800 mb-2">Document Scanner</h1>
-          <p className="-600">Upload images to extract text using Google Vision API</p>
+          <h1 className="text-3xl font-bold -800 mb-2">traft.</h1>
+          <p className="-600">track package.</p>
         </div>
 
         {/* Mode Toggle */}
