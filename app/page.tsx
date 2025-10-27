@@ -20,8 +20,6 @@ export default function Home() {
    
         
         <OCRUpload 
-          onProcessingStart={handleProcessingStart}
-          onProcessingEnd={handleProcessingEnd}
         />
 
        
